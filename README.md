@@ -11,7 +11,7 @@
 # SSH
 git clone git@github.com:chi3187086/vue-common.git
 # HTTP
-git clone https://github.com/chi3187086/vue-common.git
+https://github.com/chi3187086/vue-common.git
 
 # Install dependencies
 npm install
