@@ -8,7 +8,7 @@
 
 ```bash
 # Clone project
-git clone git@47.102.44.176:chiyn/fsk-vue-customer.git
+git clone git@github.com:chi3187086/vue-common.git
 
 # Install dependencies
 npm install
